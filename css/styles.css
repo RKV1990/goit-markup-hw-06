@@ -420,7 +420,7 @@ ul {
     margin: 0 auto;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)),
-        url(../images/people-office.jpg);
+        url(../images/mob-hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -430,7 +430,7 @@ ul {
     .section-title {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/people-office2x.jpg);
+            url(../images/mob-hero2x.jpg);
 
     }
 
@@ -476,14 +476,14 @@ ul {
         max-width: 768px;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/people-office.jpg);
+            url(../images/tablet-hero.jpg);
     }
 
     @media screen and (min-resolution: 2x) {
         .section-title {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                     rgba(46, 47, 66, 0.7)),
-                url(../images/people-office2x.jpg);
+                url(../images/hero-tablet2x.jpg);
 
         }
 
@@ -515,14 +515,14 @@ ul {
         max-width: 1440px;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/people-office.jpg);
+            url(../images/hero.jpg);
     }
 
     @media screen and (min-resolution: 2x) {
         .section-title {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                     rgba(46, 47, 66, 0.7)),
-                url(../images/people-office2x.jpg);
+                url(../images/hero2x.jpg);
 
         }
 
